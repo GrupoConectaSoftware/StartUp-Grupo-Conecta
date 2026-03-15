@@ -94,12 +94,28 @@ https://www.conectagroupdev.com
 
 <p align="center">
 
+# 🤝 Connect with Conecta
+
+<p align="center">
+
 <a href="https://github.com/GrupoConectaSoftware">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.conectagroupdev.com">
-<img src="https://img.shields.io/badge/Website-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/conectagroupdev">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@grupoconectadev">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/573218404561">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
