@@ -90,8 +90,6 @@ https://www.conectagroupdev.com
 
 ---
 
-# 🤝 Connect with Conecta
-
 <p align="center">
 
 # 🤝 Connect with Conecta
