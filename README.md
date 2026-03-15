@@ -1,47 +1,56 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Alejandro%20Aguilón%20Buitrago&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Grupo%20Conecta&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👋 Hi! I'm Alejandro Aguilón Buitrago</h1>
+<h1 align="center">🚀 Grupo Conecta</h1>
 
 <p align="center">
-💻 Software Developer | 📊 Data Analyst | 🚀 Builder
+Software Development • Digital Platforms • Technology Innovation
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&lines=Software+Developer;Full+Stack+Engineer;Data+Analytics+Enthusiast;Building+Scalable+Applications;Founder+of+Grupo+Conecta"/>
+
+<img src="https://img.shields.io/badge/Software-Development-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web-Platforms-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Systems-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial-Intelligence-black?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 🧠 About Me
+# 🧠 About Conecta
 
-I’m a software developer focused on building **modern, scalable and production-ready digital solutions**.
+**Grupo Conecta** is a software development initiative focused on building modern digital solutions, scalable platforms and technology systems.
 
-I love combining **software engineering + data analytics** to create applications with strong logic, polished interfaces and intelligent systems.
+The goal of Conecta is to connect **ideas, technology and innovation** through modern software engineering.
 
-✨ My focus:
-
-• Clean and maintainable code  
-• Professional development standards  
-• Performance and accessibility  
-• Smooth UX and polished UI  
-• Data-driven decision making  
+We design and develop solutions that help businesses, developers and digital ecosystems grow through technology.
 
 ---
 
-# 🚀 Founder of Grupo Conecta
+# ⚙️ What We Do
 
-Grupo Conecta is a technology initiative focused on building **software solutions, platforms and digital tools**.
+Conecta focuses on developing solutions in the following areas:
 
-### Our mission
-
-Design and develop **modern scalable technology** that connects ideas, systems and people.
-
+• Web application development  
+• Software engineering systems  
+• Artificial intelligence integrations  
+• Automation tools  
+• Digital platforms and services  
 
 ---
 
-# 🛠️ Technologies I Work With
+# 🧩 Conecta Ecosystem
+
+The Conecta ecosystem is composed of multiple independent projects that work together as a modular software environment.
+
+
+Each project represents a system module designed to scale independently while contributing to the larger Conecta ecosystem.
+
+---
+
+# 🛠️ Technology Stack
 
 <p align="center">
 
@@ -49,54 +58,45 @@ Design and develop **modern scalable technology** that connects ideas, systems a
 
 </p>
 
+Conecta uses modern development tools and frameworks to build scalable and maintainable systems.
+
 ---
 
-# 📊 GitHub Stats
+# 📦 Projects Architecture
+
+The repository **proyectos** serves as the central hub for all Conecta projects.
+
+The architecture is designed using **Git submodules** so that projects can be developed independently while remaining connected within a single ecosystem.
+
+
+Benefits of this architecture:
+
+• Modular development  
+• Independent project management  
+• Scalable repository structure  
+• Easy collaboration between developers  
+
+---
+
+# 🚀 Vision
+
+The vision of Conecta is to become a technology ecosystem where software development, innovation and digital infrastructure converge.
+
+We aim to build tools, platforms and systems that empower developers, organizations and digital businesses.
+
+---
+
+# 🌐 Website
+
+https://www.conectagroupdev.com
+
+---
+
+# 🤝 Connect with Conecta
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aguilonFrontend&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aguilonFrontend&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguilonFrontend&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🧩 Conecta Ecosystem
-
-The Conecta ecosystem is composed of multiple independent software projects.
-
-
----
-
-# 🎯 Current Focus
-
-Currently working on:
-
-• Full-stack web applications  
-• REST API architectures  
-• Data pipelines and automation  
-• Advanced SQL and analytics  
-• Clean scalable software architecture  
-
----
-
-# 🌎 Connect with Me
-
-<p align="center">
-
-<a href="https://github.com/aguilonFrontend">
+<a href="https://github.com/GrupoConectaSoftware">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
@@ -104,22 +104,15 @@ Currently working on:
 <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge"/>
 </a>
 
-<a href="mailto:aguilondevelopsoft@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
 </p>
 
 ---
 
 
-
-Technology is about solving problems and creating systems that empower people.
+Conecta believes that technology should not only be built, but designed to connect people, systems and ideas.
 
 ---
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
-
-
